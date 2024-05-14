@@ -189,7 +189,7 @@ span.divider_text {
 @media (min-width: 1140px){
 	.container {
 		max-width: 1140px;
-	}	
+	}
 }
 /* ===== 1. Top Menu CSS ===== */
  .em40_header_area_main.hdisplay_none {
@@ -370,7 +370,7 @@ span.divider_text {
 }
  .trading-main-menu .prefix .logo a.main_sticky_l {
      display: block;
-} 
+}
 /* MENU text CSS */
  .trading_menu ul {
      text-align: right;
@@ -726,7 +726,7 @@ textarea, input {
     margin: 0;
     font-weight: 600;
 	font-size: 18px;
-	
+
 }
 .main_menu_header_address_text h3{
 	color: #03a9f4;
@@ -804,9 +804,9 @@ textarea, input {
 }
 .mobile_p {}
 .mean-container .mean-nav ul li a {
-    border: 0;	
+    border: 0;
     width: 100%;
-    border-top: 1px solid #ddd;	
+    border-top: 1px solid #ddd;
     font-size: 14px;
     padding: 12px 5px;
     font-weight: 500;
@@ -1096,12 +1096,12 @@ table#wp-calendar td#today {
 .em-slider-title {
     color: #fff;
     font-size:24px;
-    margin-bottom:0;	
+    margin-bottom:0;
 	font-weight:600;
 }
 .em-slider-title span{
 	color:#e8bc5a;
-}	
+}
 .em-slider-descript {
 	color: #fff;
     margin-bottom:30px;
@@ -1142,7 +1142,7 @@ table#wp-calendar td#today {
     border-radius:0;
     transition: all 0.5s ease 0s;
     z-index: 1;
-	background:#03A9F4; 	
+	background:#03A9F4;
 	margin:0 4px;
 	text-transform:uppercase;
 	margin-top:15px
@@ -1248,7 +1248,7 @@ a.withput-active:hover {
     margin: 0 5px;
     width: 25px;
 	color: #fff;
-line-height: 25px;	
+line-height: 25px;
 }
 .em-nivo-slider-wrapper .nivo-controlNav a:hover, .em-nivo-slider-wrapper .nivo-controlNav a.active {
     background: #03a9f4;
@@ -1960,7 +1960,7 @@ span.witr_list_text {
 	color:#03a9f4
 }
 .witr_single_pslide:hover .witr_pslide_custom {
-    bottom: -20px; 
+    bottom: -20px;
 }
 .witr_pslide3 .witr_pslide_custom a span {
     width: 45px;
@@ -2077,7 +2077,7 @@ span.witr_list_text {
 }
 .prot_content {
     position: absolute;
-    text-align: center;    
+    text-align: center;
     transition: .5s;
     right: 0;
     top: 0;
@@ -2165,7 +2165,7 @@ span.witr_list_text {
 .prot_wrap.nospace .gallery_load_button a {
     margin-top: 30px;
 }
-.prots-contentg p {} 
+.prots-contentg p {}
 /*style 1 */
 .em_port_content {
     height: 100%;
@@ -2179,7 +2179,7 @@ span.witr_list_text {
     z-index: 9;
     left: 0;
     top: -100%;
-    width: 100%;   
+    width: 100%;
     transition: .5s;
     text-align: center;
 }
@@ -2189,7 +2189,7 @@ span.witr_list_text {
 .pstyle_1 .prot_content p {
     margin: 2px 0 0;
 }
-.pstyle_1 .single_protfolio {      
+.pstyle_1 .single_protfolio {
     transition: .5s;
 }
 .portfolio_readmore_btn {
@@ -2199,7 +2199,7 @@ span.witr_list_text {
     border-radius: 5px;
     display: inline-block;
     padding: 6px 21px;
-    text-transform: uppercase;      
+    text-transform: uppercase;
     transition: .3s;
     border: 1px solid transparent;
 }
@@ -2237,7 +2237,7 @@ span.witr_list_text {
     color: #454545;
 }
 .porttitle_inner4 p {
-	margin-bottom: 0;	
+	margin-bottom: 0;
 }
 .porttitle_inner4 p span {
     display: inline-block;
@@ -2331,7 +2331,7 @@ ul.page-numbers a.page-numbers {
 /* style 1 */
 .em_port_content {
     height: 100%;
-    width: 100%;     
+    width: 100%;
 }
 .pstyle_1 .porttitle_inner h3 {
     padding-bottom: 0px;
@@ -2350,7 +2350,7 @@ ul.page-numbers a.page-numbers {
     border-radius: 5px;
     display: inline-block;
     padding: 6px 21px;
-    text-transform: uppercase;   
+    text-transform: uppercase;
     transition: .3s;
     border: 1px solid transparent;
 }
@@ -2977,7 +2977,7 @@ ul.page-numbers a.page-numbers {
     transition: .5s;
 }
 .witr_team_thumb_3d img {
-    width: 100%;
+    width: 80%;
 }
 .witr_team_back_3d {
     z-index: 3;
@@ -3528,7 +3528,7 @@ ul.page-numbers a.page-numbers {
     background: #02101e;
 }
 input:-webkit-autofill,
-input:-webkit-autofill:hover, 
+input:-webkit-autofill:hover,
 input:-webkit-autofill:focus,
 input:-webkit-autofill:active,
 textarea:-webkit-autofill,
@@ -3539,7 +3539,7 @@ select:-webkit-autofill,
 select:-webkit-autofill:hover,
 select:-webkit-autofill:focus,
 select:-webkit-autofill:active{
-  transition: background-color 50000s ease-in-out 0s, color 5000s ease-in-out 0s;	
+  transition: background-color 50000s ease-in-out 0s, color 5000s ease-in-out 0s;
 }
 p.form-messege{
     margin-top: 8px;
@@ -4854,7 +4854,7 @@ form.woocommerce-form.woocommerce-form-login.login label {
 .woocommerce button.button:hover{
 	background:#000;
 }
-/* ===== 19. Shop Area CSS ===== */ 
+/* ===== 19. Shop Area CSS ===== */
 section.shop_grid_area.sec_padding {
     padding: 120px 0 90px;
 }
@@ -4864,7 +4864,7 @@ section.shop_grid_area.sec_padding {
 .order_tx {
     justify-content: flex-end;
     align-items: center;
-}  
+}
 ul.tx_product_tab.nav {
     justify-content: flex-end;
     margin-bottom: 2em;
@@ -4890,7 +4890,7 @@ ul.tx_product_tab.nav li a {
     border-radius: 5px;
     color: #333;
     border: 1px solid #e8e8e8;
-}  
+}
 .woocommerce-ordering {
     margin: 0 0 2em;
 }
@@ -4903,15 +4903,15 @@ ul.tx_product_tab.nav li a {
 }
 .tbd_product {
     padding-left: 0;
-}  
+}
 .listdiv_center {
     padding: 15px 0;
-}  
+}
 .shop_grid_area .price span {
     font-size: 1rem;
     font-weight: 700;
     color: #03a9f4;
-}  
+}
 p.list_produc_content {
     margin-top: 15px;
 }
